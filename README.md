@@ -8,7 +8,7 @@
 
 - 🎓 Pursuing B.Tech in **Computer Science Engineering** at **Thapar Institute of Engineering and Technology** (2023-2027).
 - 🛡️ Previously interned as a **Security Intern** at the **Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs**, specializing in Android Malware Analysis and cybercrime investigations.
-- 🚀 I lead the **OWASP TIET Chapter** & **Microsoft Learn Student Chapter**, organizing CTFs for 1800+ participants and hosting cybersecurity workshops.
+- 🚀 I lead the **OWASP TIET Chapter** , organizing CTFs for 1800+ participants and hosting cybersecurity workshops.
 - 🔭 Currently developing **SecureAgent**, an AI security capstone evaluating tool-calling agents against prompt injections.
 - 📫 Reach out to me: **[sgrover_be23@thapar.edu](mailto:sgrover_be23@thapar.edu)**
 
@@ -36,9 +36,7 @@
 
 <br/>
 
-### 🏆 Featured Projects & Research
-
-- 🔬 **SHAKTI-IFF:** Swarm Hardened Autonomous Kinematic-Trust Identification Framework (Shortlisted at ICAAV 2026, DRDO).
+### 🏆 Featured Projects
 - 🤖 **SecureAgent:** Evaluating AI agents against prompt injection & unsafe tool usage workflows via red-team attack simulations.
 - 📹 **Deepfake Detection:** PyTorch & EfficientNet-based Temporal Vision Transformer for video manipulation detection (96.08% accuracy).
 - 🏙️ **Society Operations Platform:** Full-stack residential management platform built with Flutter and Firebase.
