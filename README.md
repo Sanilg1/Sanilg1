@@ -20,7 +20,7 @@
 - 🔭 **Currently Building:** **[SecureAgent](https://github.com/Sanilg1)** — Red-teaming & evaluation benchmark for AI tool-calling agents against indirect prompt injection and unauthorized workflows.
 - 🔬 **Research:** Co-authored work on *Physics-Informed Digital Twins for UAV Propulsion & RUL Prediction* (ICAAV 2026).
 - 🛡️ **Security Interests:** Android reverse engineering, mobile malware analysis, cloud infrastructure auditing, and LLM safety.
-- 🚀 **Community:** Joint Secretary at **OWASP TIET** & Core Member at **Microsoft Learn Student Chapter** — organizing CTFs and hands-on workshops.
+- 🌐 **Community & Open Source:** Organizing CTFs, hands-on security workshops, and building open-source developer tooling.
 - 💬 **Ask me about:** Mobile application security, Frida, Burp Suite, AWS architecture, Python, and PyTorch.
 
 ---
